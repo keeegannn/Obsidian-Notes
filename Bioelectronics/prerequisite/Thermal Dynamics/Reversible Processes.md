@@ -1,0 +1,1 @@
+A reversible process is theoretical and therefore only used to benchmark real processes.

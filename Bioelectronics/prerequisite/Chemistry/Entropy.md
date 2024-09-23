@@ -1,0 +1,1 @@
+Entropy is a measure of how spread out or how concentrated Energy is Large Entropy is more dispersed energy/things

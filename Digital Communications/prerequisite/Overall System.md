@@ -1,0 +1,2 @@
+![[Pasted image 20240917200517.png]]
+The channel is a place where signals get distorted through noise, interference and fading and the distortion can be done to Amplitude, Frequency or Phase and comes from atmosphere, reflection or refractive objects. The dynamics of electrons cause thermal noise, which is described as additive white Guassian noise.

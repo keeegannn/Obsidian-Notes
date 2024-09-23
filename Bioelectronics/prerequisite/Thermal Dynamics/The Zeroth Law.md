@@ -1,0 +1,2 @@
+**If System A is in thermal equilibrium with System C, and System B is also in thermal equilibrium with System C, then System A and System B must be in thermal equivalence with each other.**
+1. **Thermal Equilibrium**: This refers to a condition where no heat flows between objects when they are connected. Heat flows naturally from a hotter object to a colder one until the temperature equalizes, at which point thermal equilibrium is achieved.
